@@ -6,7 +6,7 @@
 
 ![last commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/ATM-Bank-Interface-System)
 ![Java](https://img.shields.io/badge/Java-100%25-orange)
-![License](https://img.shields.io/github/license/Muhammad-Ahmed-Rayyan/ATM-Bank-Interface-System)
+![languages](https://img.shields.io/github/languages/count/Muhammad-Ahmed-Rayyan/Inventory-Management-System)
 
 <br>
 
@@ -40,17 +40,23 @@ Users can:
 
 ## 📂 Repository Structure
 
+```plaintext
 📁 ATM-Bank-Interface-System
 ├── Bank.java
+├── Bank.form
 ├── ATMHOME.java
+├── ATMHOME.form
 ├── ATMPinConfirm.java
+├── ATMPinConfirm.form
 ├── CheckBalance.java
+├── CheckBalance.form
 ├── Withdraw.java
+├── Withdraw.form
 ├── Customer.java
 ├── LinkedList.java
-├── data.txt # persists all user records
-└── images/
- └── round.png # ATM round button image
+├── images/
+│   └── round.png      # ATM round button image
+└── data.txt           # persists all user records
 
 ---
 
@@ -91,10 +97,6 @@ So your balances, accounts, and transactions are saved across runs.
 
 ---
 
-## ✍️ Author
-
-- **[Muhammad Ahmed Rayyan](https://github.com/Muhammad-Ahmed-Rayyan)**
+⭐ If you like this project, don’t forget to give it a star on GitHub!
 
 ---
-
-⭐ If you like this project, don’t forget to give it a star on GitHub!

@@ -12,10 +12,10 @@
 
 Built with:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-UI-0db7ed?logo=java&logoColor=white)
-![File Handling](https://img.shields.io/badge/File-Handling-green)
-![Random](https://img.shields.io/badge/Random-PIN/Card-c9184a)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-UI-0db7ed?style=for-the-badge&logo=java&logoColor=white)
+![File Handling](https://img.shields.io/badge/File%20Handling-green?style=for-the-badge&logo=files&logoColor=white)
+![Random](https://img.shields.io/badge/Random%20PIN/Card-c9184a?style=for-the-badge&logo=hashnode&logoColor=white)
 
 </div>
 

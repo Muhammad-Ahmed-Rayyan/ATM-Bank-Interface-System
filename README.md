@@ -15,7 +15,7 @@ Built with:
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-UI-0db7ed?logo=java&logoColor=white)
 ![File Handling](https://img.shields.io/badge/File-Handling-green)
-![Random](https://img.shields.io/badge/Random-PIN/Card-lightgrey)
+![Random](https://img.shields.io/badge/Random-PIN/Card-00b4d8)
 
 </div>
 

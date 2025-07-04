@@ -97,6 +97,10 @@ So your balances, accounts, and transactions are saved across runs.
 
 ---
 
+<div align="center">
+
 ⭐ If you like this project, don’t forget to give it a star on GitHub!
+
+</div>
 
 ---

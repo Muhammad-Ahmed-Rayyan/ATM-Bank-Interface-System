@@ -57,7 +57,7 @@ Users can:
 ├── images/
 │   └── round.png      # ATM round button image
 └── data.txt           # persists all user records
-
+```
 ---
 
 ## 🚀 How to Run
